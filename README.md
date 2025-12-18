@@ -1,5 +1,9 @@
 # HackerRank Python Solutions 🚀
 
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Python-green)](https://www.hackerrank.com/domains/python)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 My personal Python 3 solutions to **HackerRank Python Domain** challenges.
 
 ## Purpose
@@ -36,17 +40,17 @@ Solutions organized by HackerRank categories:
 - Each solution includes clean code + explanatory comments.
 
 ## Progress
-- **Total Solved**: [Update regularly, e.g., 50+]
-- **Last Updated**: December 2025
+- **Total Solved**: 1+ (and growing!)
+- **Last Updated**: December 18, 2025
 
 ## Contributions
 Feel free to open Issues or Pull Requests for improvements or bug fixes. 🤝
 
 ## Links
 - [HackerRank Python Domain](https://www.hackerrank.com/domains/python)
-- [My HackerRank Profile](https://www.hackerrank.com/iarchtesla) *(optional)*
+- [My HackerRank Profile](https://www.hackerrank.com/iarchtesla)
 
 Thanks for visiting! Keep coding! 💻✨
 
 ---
-Made with ❤️ by [iarchtesla]
+Made with ❤️ by iarchtesla
